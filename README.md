@@ -18,8 +18,8 @@ AWS Textractor document analyzer is a Python-based tool that leverages AWS Textr
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/AnaghaDhekne/aws-textract-document-analyzer.git
+   cd aws-textract-document-analyzer
    ```
 
 2. Install dependencies:

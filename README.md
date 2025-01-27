@@ -73,6 +73,9 @@ To process a sample ID document:
    ```
 3. Results will include extracted text and any detected key-value pairs or table data.
 
+## Feedback and Collaboration
+This project is an initial exploration into document analysis using AWS Textract. I’m open to feedback, suggestions, and collaboration to expand its capabilities and make it relevant for real-world industry use cases. Feel free to reach out via issues or pull requests.
+
 ## Notes
 - Ensure your AWS Textract service permissions are configured correctly to avoid access errors.
 - Update `document_types` in the `main()` function to add or modify document types and file paths.
